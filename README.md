@@ -2,7 +2,7 @@
 # Installation/Kurulum
 
 1. Scripti İndirin.
-2. Server.cfg'ye start bennys_custom satırını ekleyiniz.
+2. Server.cfg'ye start vehicle_damage satırını ekleyiniz.
 3. Ardından Serverı Başlatabilirsiniz.İyi Oyunlar. 
 
 
